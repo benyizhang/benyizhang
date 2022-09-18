@@ -1,5 +1,5 @@
 - Hi, I’m @benyizhang
-- I’m interested in R programming, statistical/empirical analysis. 
+- I’m interested in R / Python programming, statistical/empirical analysis. 
 - My research interests are energy/climate economics and green finance.  
 - I’m looking to collaborate on being a well qualified data analyst. 
 - How to reach me:  binyizhang@outlook.com 
